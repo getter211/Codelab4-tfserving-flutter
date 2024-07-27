@@ -1,0 +1,10 @@
+^C:\USERS\JEREMI ALONZO\DESKTOP\PRACTICAS-FLUTTER\PRACTICAS-FLUTTER\CODELAB3-TFSERVING-FLUTTER\BUILD\WINDOWS\X64\CMAKEFILES\0BBFB9F254C49F07A728211A9BD5A4D5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/windows" "-BC:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/tfserving_flutter.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

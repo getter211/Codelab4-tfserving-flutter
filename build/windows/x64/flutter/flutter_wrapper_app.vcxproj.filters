@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\Codelab3-tfserving-flutter\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\Codelab3-tfserving-flutter\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\Codelab3-tfserving-flutter\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\Codelab3-tfserving-flutter\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jeremi Alonzo\Desktop\practicas-flutter\practicas-flutter\Codelab3-tfserving-flutter\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D98A5059-185A-31CF-9116-71C49C7F66A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7616A58E-703A-367D-956E-84134F9A22E7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

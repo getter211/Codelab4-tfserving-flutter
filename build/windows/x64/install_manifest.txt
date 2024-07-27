@@ -1,0 +1,11 @@
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/assets/vocab.txt
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Jeremi Alonzo/Desktop/practicas-flutter/practicas-flutter/Codelab3-tfserving-flutter/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
